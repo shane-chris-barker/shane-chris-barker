@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shane and I'm a developer based in Nottingham, England.
 
-I'm mainly versed in PHP, but I'm always looking for fun projects to get involved in and learn new skills.
+I'm mainly versed in PHP, but I'm always looking for fun personal projects to get involved in and learn new skills.
 
 
 - 🤖 My main personal project right now is a Raspberry Pi robot called **Bop**
